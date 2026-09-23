@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Sorting
 |  |
@@ -63,4 +64,5 @@
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0788-rotated-digits) |
 <!---LeetCode Topics End-->

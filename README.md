@@ -65,4 +65,12 @@
 | ------- |
 | [0396-rotate-function](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0788-rotated-digits) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

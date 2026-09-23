@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0011-container-with-most-water) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
@@ -30,4 +31,20 @@
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Depth-First Search
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->

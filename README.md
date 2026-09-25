@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0061-rotate-list) |
 ## Greedy
 |  |
 | ------- |
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1096-brace-expansion-ii) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->

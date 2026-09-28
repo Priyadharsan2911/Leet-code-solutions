@@ -1,3 +1,6 @@
 class Solution:
-    def rotateString(self, s: str, goal: str) -> bool:
-        return len(s) == len(goal) and goal in (s + s)
+
+  def rotateString(self, s: str, goal: str) -> bool:
+    # A string 's' can be rotated to 'goal' if and only if
+    # they are of equal length and 'goal' is a substring of 's + s'.
+    return len(s) == len(goal) and goal in (s + s)

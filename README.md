@@ -79,6 +79,7 @@
 | ------- |
 | [0796-rotate-string](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0796-rotate-string) |
 | [1096-brace-expansion-ii](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1096-brace-expansion-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -91,8 +92,13 @@
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1096-brace-expansion-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0061-rotate-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

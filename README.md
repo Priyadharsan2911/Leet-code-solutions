@@ -9,6 +9,7 @@
 | [0396-rotate-function](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0396-rotate-function) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1861-rotating-the-box](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1096-brace-expansion-ii) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Dynamic Programming
 |  |

@@ -95,6 +95,7 @@
 | [0020-valid-parentheses](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0020-valid-parentheses) |
 | [0796-rotate-string](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
@@ -110,6 +111,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
@@ -121,6 +123,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Simulation

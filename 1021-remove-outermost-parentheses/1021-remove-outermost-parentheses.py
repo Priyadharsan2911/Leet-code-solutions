@@ -8,7 +8,7 @@ class Solution:
                 if depth > 0:
                     res.append(char)
                 depth += 1
-            else:
+            else:  # char == ')'
                 depth -= 1
                 if depth > 0:
                     res.append(char)

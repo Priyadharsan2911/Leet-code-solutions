@@ -100,6 +100,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## String Matching
 |  |
 | ------- |

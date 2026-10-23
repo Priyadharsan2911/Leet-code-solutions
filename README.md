@@ -16,6 +16,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3660-jump-game-ix](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3660-jump-game-ix) |
 ## Two Pointers
 |  |
@@ -133,4 +134,8 @@
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->

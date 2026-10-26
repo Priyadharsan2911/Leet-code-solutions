@@ -16,6 +16,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3660-jump-game-ix](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3660-jump-game-ix) |
 ## Two Pointers
@@ -52,15 +53,18 @@
 |  |
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1096-brace-expansion-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -69,6 +73,7 @@
 | [1861-rotating-the-box](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Math
 |  |
 | ------- |

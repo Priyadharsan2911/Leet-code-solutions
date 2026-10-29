@@ -19,6 +19,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3660-jump-game-ix](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3660-jump-game-ix) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
@@ -55,6 +56,7 @@
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## String Matching
 |  |
@@ -146,5 +149,22 @@
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->

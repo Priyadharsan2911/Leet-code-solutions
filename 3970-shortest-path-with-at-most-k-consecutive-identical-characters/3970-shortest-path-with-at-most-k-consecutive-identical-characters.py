@@ -1,0 +1,38 @@
+import heapq
+from typing import List
+
+class Solution:
+    def shortestPath(self, n: int, edges: List[List[int]], labels: str, k: int) -> int:
+        adj = [[] for _ in range(n)]
+        for u, v, w in edges:
+            adj[u].append((v, w))
+            
+        # Priority queue stores: (weight, node, consecutive_count)
+        pq = [(0, 0, 1)]
+        
+        # visited[(node, consecutive_count)] = min_weight
+        dist = {}
+        
+        while pq:
+            w, u, count = heapq.heappop(pq)
+            
+            if u == n - 1:
+                return w
+                
+            if (u, count) in dist and dist[(u, count)] < w:
+                continue
+            dist[(u, count)] = w
+            
+            for v, weight in adj[u]:
+                if labels[u] == labels[v]:
+                    next_count = count + 1
+                else:
+                    next_count = 1
+                    
+                if next_count <= k:
+                    next_w = w + weight
+                    if (v, next_count) not in dist or next_w < dist[(v, next_count)]:
+                        dist[(v, next_count)] = next_w
+                        heapq.heappush(pq, (next_w, v, next_count))
+                        
+        return -1

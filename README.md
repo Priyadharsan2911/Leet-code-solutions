@@ -14,6 +14,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2574-left-and-right-sum-differences](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Depth-First Search
 |  |
 | ------- |

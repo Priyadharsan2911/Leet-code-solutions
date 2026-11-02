@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0396-rotate-function) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -89,6 +90,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0396-rotate-function) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0788-rotated-digits](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -96,6 +98,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1096-brace-expansion-ii) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |

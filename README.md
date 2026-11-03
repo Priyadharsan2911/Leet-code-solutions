@@ -23,6 +23,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3660-jump-game-ix](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3660-jump-game-ix) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
@@ -95,6 +96,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
 | ------- |

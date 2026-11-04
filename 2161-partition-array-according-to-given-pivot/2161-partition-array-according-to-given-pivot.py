@@ -1,9 +1,13 @@
+from typing import List
+
+
 class Solution:
-    def pivotArray(self, nums: list[int], pivot: int) -> list[int]:
+
+    def pivotArray(self, nums: List[int], pivot: int) -> List[int]:
         left = []
         middle = []
         right = []
-        
+
         for x in nums:
             if x < pivot:
                 left.append(x)
@@ -11,5 +15,5 @@ class Solution:
                 middle.append(x)
             else:
                 right.append(x)
-                
+
         return left + middle + right

@@ -13,6 +13,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1861-rotating-the-box](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1861-rotating-the-box) |
+| [1882-process-tasks-using-servers](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1882-process-tasks-using-servers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -192,6 +193,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1882-process-tasks-using-servers) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |

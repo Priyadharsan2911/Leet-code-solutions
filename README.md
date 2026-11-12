@@ -21,6 +21,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |

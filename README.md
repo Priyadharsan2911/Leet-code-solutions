@@ -96,6 +96,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |

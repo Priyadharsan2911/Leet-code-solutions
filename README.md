@@ -20,6 +20,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -46,6 +47,7 @@
 | [0011-container-with-most-water](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Hash Table
 |  |
@@ -119,6 +121,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Dynamic Programming
 |  |
 | ------- |

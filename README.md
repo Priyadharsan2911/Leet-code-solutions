@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -69,6 +70,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2574-left-and-right-sum-differences](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -108,6 +110,7 @@
 | [0396-rotate-function](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0788-rotated-digits](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/0788-rotated-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -234,4 +237,12 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->

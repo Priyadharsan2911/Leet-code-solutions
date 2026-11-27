@@ -35,6 +35,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3660-jump-game-ix) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Priyadharsan2911/Leet-code-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## String
 |  |
 | ------- |
